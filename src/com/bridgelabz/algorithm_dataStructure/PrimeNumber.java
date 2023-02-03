@@ -22,3 +22,4 @@ public class PrimeNumber {
         System.out.println(primeNumber);
     }
 }
+
